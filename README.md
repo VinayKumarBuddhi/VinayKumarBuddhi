@@ -147,7 +147,11 @@ graph LR
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/VinayKumarBuddhi/VinayKumarBuddhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayKumarBuddhi&theme=radical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayKumarBuddhi&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
