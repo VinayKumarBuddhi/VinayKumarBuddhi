@@ -12,19 +12,20 @@
 const buddhi = {
     pronouns: "He" | "Him",
     location: "Hyderabad, India",
-    education: "BTech Information Technology @ CVR College of Engineering",
+    education: "BTech Cse(AI&ML) @ CVR College of Engineering (2022-2026)",
     cgpa: "9.1/10",
     currentFocus: "Full Stack Development & AI/ML",
+    phone: "+91 8919937820",
     askMeAbout: ["Web Dev", "Machine Learning", "DSA", "Competitive Programming"],
     technologies: {
-        frontEnd: ["React.js", "JavaScript", "HTML", "CSS"],
-        backEnd: ["Python", "Flask", "Express.js", "Node.js"],
-        aiMl: ["TensorFlow", "Keras", "Pandas", "NumPy", "OpenCV"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "VSCode", "Jupyter", "Google Colab", "CursorAI"],
-        concepts: ["DSA", "OOP", "DBMS", "Neural Networks"]
+        languages: ["Python", "JavaScript"],
+        frontEnd: ["React.js", "HTML", "CSS"],
+        backEnd: ["MongoDB", "SQL", "Node.js", "Express.js"],
+        aiMl: ["Neural Networks", "TensorFlow", "Keras", "Pandas", "NumPy", "OpenCV", "FER", "PyAudio"],
+        tools: ["VSCode", "Jupyter", "Git", "Google Colab", "CursorAI", "YOLO", "PyTesseract"],
+        concepts: ["DSA", "OOP", "OS", "DBMS", "Problem Solving"]
     },
-    currentGoal: "Building scalable software solutions & Contributing to Open Source"
+    currentGoal: "Building scalable software solutions & Growing as a Software Development Engineer"
 };
 ```
 
@@ -67,26 +68,27 @@ const buddhi = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|--------|
-| 🤖 **AutoML for Everyone** | User-friendly interface for automated machine learning model building | Python, Flask, React.js | [Demo](#) \| [Code](#) |
-| 🧠 **Alzheimer's Assist** | AI-powered platform for Alzheimer's patient recognition using facial profiles | Python, React.js, MongoDB | [Demo](#) \| [Code](#) |
-| 🧘 **Meditation Support System** | Computer vision system for meditation assistance with emotion detection | Python, OpenCV, PyAudio | [Demo](#) \| [Code](#) |
-| 📝 **AI Abstract Generator** | Intelligent document summarization using Gemini API | Python, React.js, Gemini API | [Demo](#) \| [Code](#) |
+| 🤖 **AutoML for Everyone** | Simplified AutoML web application designed to democratize machine learning model building for non-coders | Python, Flask, React.js | [Code](https://github.com/VinayKumarBuddhi/AutomatedML/tree/master) |
+| 🧠 **Alzheimer's Assist** | AI-powered platform that helps Alzheimer's patients recognize loved ones using family profiles with photos and facial recognition | Python, Facial Recognition, React.js, Express.js, MongoDB | [Code](https://github.com/VinayKumarBuddhi/Alzheimers-sAssist) |
+| 🧘 **Meditation Support System** | Computer vision system to aid meditation focus using eye tracking, emotion detection, and ambient noise monitoring for ADHD/ASD patients | Python, FER, NumPy, PyAudio, OpenCV | [Code](#) |
+| 📝 **AI Flashcard Generator** | Summarizing key concepts from PDFs, Word docs into structured flashcards using Gemini API | Python, React.js, Gemini API | [Code](https://github.com/VinayKumarBuddhi/ai-generated-flash-cards) |
+| 👁️ **AR Vision for the Blind** | Assistive vision system using YOLO, Tesseract OCR, and PyTTSx3 for real-time object detection and voice-controlled navigation | Python, OpenCV, YOLO, PyTesseract | [Code](https://github.com/VinayKumarBuddhi/project-vision) |
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayKumarBuddhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumarBuddhi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumarBuddhi&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayKumarBuddhi&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"/>
 </div>
 
 ## 🏆 Achievements & Certifications
@@ -95,15 +97,18 @@ const buddhi = {
 
 ### 🎯 Competitive Programming
 - 🌟 **LeetCode Top 12.01%** globally
-- 🚀 Completed structured **DSA training** through Smart Interviews
+- 🚀 Completed structured **DSA training** through Smart Interviews with [SmartCoder Diamond Certification](https://smartinterviews.in/certificate/22da1207)
 - 🏆 **Top 7th team** in GDG Campus Solution Challenge Hackathon
 
 ### 📜 Certifications
-- 🤖 Machine Learning Specialization
-- 📊 Data Science Fundamentals  
-- 🧠 Deep Learning & Neural Networks
-- ☁️ Cloud Computing Basics
-- 🔒 Cybersecurity Fundamentals
+- 🤖 [Machine Learning Specialization - Coursera](https://drive.google.com/file/d/1-jcwuGOqq3IUwVg7VzGmgCshQF55y8YQ/view?usp=sharing) (Jan 2025)
+- 🧠 [Advanced Learning Algorithms - Coursera](https://drive.google.com/file/d/1WbLty3Ol_RX3wRZxpKpmEWk9gLFHiIMQ/view?usp=sharing) (Jan 2025)
+- 🔬 [Unsupervised Learning & Reinforcement Learning - Coursera](https://drive.google.com/file/d/1IjuVg2CXoMQyP75zRP405hGUPW0WqKyb/view?usp=sharing) (Jan 2025)
+- 🗄️ [Database Programming with SQL - Oracle Academy](https://drive.google.com/file/d/1JJ9o0-iufGKPHwPZ8bYSH9wzWQCJdAnZ/view?usp=sharing) (May 2024)
+- 🤖 [AI-ML Virtual Internship - Google for Developers](https://drive.google.com/file/d/10u8_yAdfd2D0xV-AtQHjgep7Bk6X5hA2/view?usp=sharing) (Jul-Sep 2024)
+- 📊 [Data Science Master Virtual Internship - ALTAIR](https://drive.google.com/file/d/1sBd4UjtTGiZH_3YATV9T6foFzgOV5jCv/view?usp=sharing) (Feb-Mar 2025)
+- 🐍 [Pandas Certification - Kaggle](https://drive.google.com/file/d/1BxXCusfJyukHMxscBB8EO4NiPm8fxPb5/view?usp=sharing) (Dec 2022)
+- 🍃 [MongoDB for Students Certification](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/2fb4a221-7dd8-498e-b7c0-1b7406730788-vinay-kumar-buddhi-21efa6e1-6738-49c9-a4a2-58dd9b4c34e1-certificate.pdf) (2025)
 
 </div>
 
@@ -133,29 +138,23 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-buddhi-6a27872b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayKumarBuddhi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumarbuddhi333@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918919937820)
 
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyid&count=1" alt="Spotify Playing" width="350" />
+  <img src="https://github.com/VinayKumarBuddhi/VinayKumarBuddhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VinayKumarBuddhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   ### 💖 Thanks for visiting! Let's build something amazing together! 
   
